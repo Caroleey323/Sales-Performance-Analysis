@@ -4,12 +4,12 @@ A retail company wanted to understand how its products were performing across di
 
 ## Dataset
 The dataset contains sales transactions with the following fields:
-Date
-Product
-Category
-Region
-Units Sold
-Revenue
+- Date
+- Product
+- Category
+- Region
+- Units Sold
+- Revenue
 
 ## Tasks Performed
 - Organised and cleaned raw sales data
@@ -26,4 +26,7 @@ It is recommended that the company focuses inventory and marketing efforts on hi
 
 ## Tools Used
 - Microsoft Excel
+
+
+
 

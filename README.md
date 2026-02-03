@@ -1,5 +1,5 @@
 # Sales-Performance-Analysis
-## Business Context
+
 A retail company wanted to understand how its products were performing across different regions in order to improve sales and inventory planning.
 
 ## Dataset
